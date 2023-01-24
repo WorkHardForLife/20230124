@@ -1,0 +1,25 @@
+{
+  "name": "20230124",
+  "version": "1.0.0",
+  "description": "this is a font project",
+  "main": "index.js",
+  "scripts": {
+    "lessc": "lessc css/index.less css/index.css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WorkHardForLife/20230124.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/WorkHardForLife/20230124/issues"
+  },
+  "homepage": "https://github.com/WorkHardForLife/20230124#readme",
+  "dependencies": {
+    "bootstrap": "^3.4.1",
+    "jquery": "^3.6.3",
+    "less": "^4.1.3"
+  }
+}
